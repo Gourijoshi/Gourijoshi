@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gouri Joshi</h1>
-<h3 align="center">Just wanna say "let's do it together"🤝🥂</h3>
+
+
+
 
 - 🌱 I’m currently learning **Programming languages**
 
