@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gouri Joshi</h1>
 
-![](https://komarev.com/ghpvc/?username=gourijoshi&abbreviated=true)
-
-
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
 - 🌱 I’m currently learning **Programming languages**
 
