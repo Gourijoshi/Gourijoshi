@@ -16,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourijoshi&" alt="gourijoshi" /></p>
 
-![Profile views](https://profile-counter.glitch.me/{gourijoshi}/count.svg)
