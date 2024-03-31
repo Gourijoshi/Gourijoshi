@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gouri</h1>
 
-![](https://komarev.com/ghpvc/?username=gourijoshi&abbreviated=true)
+ ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **front end development**
