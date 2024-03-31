@@ -5,9 +5,9 @@
  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **front end development**
+- 🌱 I’m currently learning **Full stack development**
 
-- 💬 Ask me about **HTML**
+  
 
 - 📫 How to reach me **gojogouri@outlook.com**
 
